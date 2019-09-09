@@ -1,0 +1,39 @@
+body{
+    margin:10%; 
+}
+
+.myform {
+    &__header{
+        margin-bottom: 3%;
+    }
+    &__input--field{
+        border: solid 2px $myGreen; 
+    }
+    &__button{
+        color: white;
+        background-color: $myGreen; 
+    }
+}
+
+.mycarousel {
+    &__header{
+        margin: 3% 0; 
+    }
+    &__slide{
+        border-radius: 10px; 
+        width: 80%;
+    }
+}
+
+.mydropdown{
+    &__header{
+        margin: 3% 0; 
+    }
+}
+
+.divider{
+    margin: 90px 20% 100px;
+   
+
+}
+

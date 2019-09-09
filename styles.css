@@ -1,0 +1,32 @@
+body {
+  margin: 10%;
+}
+
+.myform__header {
+  margin-bottom: 3%;
+}
+.myform__input--field {
+  border: solid 2px #4CAF50;
+}
+.myform__button {
+  color: white;
+  background-color: #4CAF50;
+}
+
+.mycarousel__header {
+  margin: 3% 0;
+}
+.mycarousel__slide {
+  border-radius: 10px;
+  width: 80%;
+}
+
+.mydropdown__header {
+  margin: 3% 0;
+}
+
+.divider {
+  margin: 90px 20% 100px;
+}
+
+/*# sourceMappingURL=styles.css.map */
