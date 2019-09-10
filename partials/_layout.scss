@@ -1,5 +1,5 @@
 body{
-    margin:10%; 
+    margin: 0 10%; 
 }
 
 .myform {
@@ -26,12 +26,22 @@ body{
 }
 
 .mydropdown{
+    padding: 20px;
     &__header{
         margin: 3% 0; 
+    }
+    &__menu--links{
+        margin-left: 35px; 
     }
 }
 
 .divider{
-    margin: 120px 20% 100px;
+    margin: 60px 20% 40px;
 }
+
+.check{
+    padding: 100px 0; 
+}
+
+
 

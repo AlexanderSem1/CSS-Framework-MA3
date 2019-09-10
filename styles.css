@@ -1,5 +1,5 @@
 body {
-  margin: 10%;
+  margin: 0 10%;
 }
 
 .myform__header {
@@ -21,12 +21,22 @@ body {
   width: 80%;
 }
 
+.mydropdown {
+  padding: 20px;
+}
 .mydropdown__header {
   margin: 3% 0;
 }
+.mydropdown__menu--links {
+  margin-left: 35px;
+}
 
 .divider {
-  margin: 120px 20% 100px;
+  margin: 60px 20% 40px;
+}
+
+.check {
+  padding: 100px 0;
 }
 
 /*# sourceMappingURL=styles.css.map */
